@@ -30,5 +30,3 @@ Escola: Elvira Santos De Oliveira Dona - Ano Letivo: 2ºB
 
 - Portugues
 - Inglês (Mediano)
-
-- 
